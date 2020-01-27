@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="vst-kbmap">
+    <KEYMAPPINGS basedOnDefaults="1"/>
+  </VALUE>
+  <VALUE name="presets_sel">
+    <content>
+      <instrument enabled="0"/>
+      <bank enabled="0"/>
+      <name_filter value=""/>
+      <sort_order key="0"/>
+    </content>
+  </VALUE>
+  <VALUE name="DefaultMidiMappings" val=""/>
+  <VALUE name="freeze_enabled" val="1"/>
+  <VALUE name="vst-kmswitch" val="1"/>
+  <VALUE name="vst-zoom" val="2000"/>
+  <VALUE name="voices" val="48"/>
+  <VALUE name="voices_thresh" val="100"/>
+  <VALUE name="engine_rate" val="48000"/>
+  <VALUE name="multicore" val="1"/>
+  <VALUE name="cpu_overload_detection" val="1"/>
+  <VALUE name="subl" val="D4:A;K2:A"/>
+  <VALUE name="vkeyboard" val="1"/>
+  <VALUE name="AB_button" val="0"/>
+  <VALUE name="LKey" val="# Pianoteq key file (v6)&#10;# Product: Pianoteq 6 Stage&#10;# Licensed to: Ales Huzik&#10;# Computer: x1-yoga&#10;# Date: Fri Jan 12 15:37:44 2018&#10;&#10;maH2otUBmyA-12y_iSeN6rPN3-Y1H_WNtOmBwfVHu6O6vBtNcpb4OvYBZiFjYO9pzoU0ZGYG&#10;iO_yP8JlqG3fefZBDL3KLY6VNsikBKy2_7zYg4HAZc0ADJldxFlKOdHvNQWkf3EIZpEGfxAC&#10;W3f6O0AnmQVVcDHr-aAsF9bpBHHupLhnf7aGnQpz1AR8b8APEPNqZ38g8AehuVoNYyMuJ8do&#10;U7IjzFo19EFKzbSgTOp6MX0RWbAEV58YupDIQxOASeQ9_vMJGozi3siTSfEXWrxU3VoocKRE&#10;C_HhXafza-wIH_IBTyxKHY2GOdUNNidFCkHyB0B2-LSGvnQUBqYD91AZuQWG_HdBnWGdE9UL&#10;0XLKpz7hiPuKlYp1kwta4TxPLq1QoSxrsM_qK_mO4nF8jDsRNPg_0SRLoKQ8xbdaCrrqZ1sL&#10;RIFe0xggGws1HPFWSV0XQfG5g1CwEy7B3_M1vBTT_w9fdGd5R6dFNk7nYa1MAy_K1giw84sJ&#10;MEgH4Y8fylpZPJduQqubZJ5aW_Ya-re9BRkKvNS2hh--sON2OVnsiWcIapcWRT8gIac5iKCE&#10;ZleG1EH63A4RfWCgnqFLIVviDQ08hTvkZ3uqaFnlYBVIkdsXr5tA2d3CO8vu756-vPxjZLRF&#10;vhDbXstFBuhozkmUfCmghBcWe8p41VZwx8-F9WThC8x1w94PCrtw6_S_nvUJn4VZoZos43ED&#10;4pc7Ec9sKDDhqpTsBMXqHRk3dAr9zyWThfTycPiYHRM3Q4VEKm6hid1BYbitOH8OqIjUm3A_&#10;6F_HVkz57jjXH2r57LNR-g_idrWn6OAkXBxAyZetiJ6kIxDynJ4ohzCYjjfql5JFFdBLDOuX&#10;LgutIwAzL5h769kKp0z6PlnxG8_UDufDoSo4fdwcIMgAcfU24p7WAfgUFQGi_Y5MqE4PyKtN&#10;GtOkeicoclh6-L6VmGTQttrO2Z6eg5CXV3p_b8fugOg9W5nY0YzbCQt2OUb-Xv_3k0eY8GdC&#10;U5mORclD9HG5npypKt&#10;"/>
+  <VALUE name="latest_news_check" val="2019-06-23T05:43:49Z"/>
+  <VALUE name="plcheck" val="1"/>
+  <VALUE name="serial" val="5T909-V6YAT-RZ79N-NUPGB"/>
+  <VALUE name="hwname" val="x1-yoga"/>
+  <VALUE name="welcome-done" val="1"/>
+  <VALUE name="user_root_folder" val="/home/me/.local/share/Modartt/Pianoteq/"/>
+  <VALUE name="last_options_tab" val="MIDI"/>
+  <VALUE name="lv2-kbmap">
+    <KEYMAPPINGS basedOnDefaults="1"/>
+  </VALUE>
+  <VALUE name="lv2-kmswitch" val="1"/>
+  <VALUE name="lv2-zoom" val="1000"/>
+</PROPERTIES>

@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/me/p/work/synchrony/dev-support/scripts/eastwood'
+let g:netrw_dirhist_2='/home/me/p/work/synchrony/src/tilt/bayeux'
+let g:netrw_dirhist_3='/home/me/p/work/synchrony/dev-support/scripts/format-clj'
+let g:netrw_dirhist_4='/home/me/p/work/synchrony/dev-support/scripts/compile-all'
+let g:netrw_dirhist_5='/home/me/p/work/synchrony/dev-support/scripts/test-js'
+let g:netrw_dirhist_6='/home/me/p/work/synchrony/dev-support/scripts/figwheel'
+let g:netrw_dirhist_7='/home/me/p/my/nixos/nixpkgs/nixos/modules'
